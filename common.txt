@@ -6,4 +6,7 @@ name_Joshi
 name = 'shraddheya'
 dinesh 
 merging
+<<<<<<< HEAD
 fdhjddbjdnkd
+=======
+

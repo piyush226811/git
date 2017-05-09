@@ -10,3 +10,4 @@ name_joshi
 name = 'Shraddheya'
 >>>>>>> 5ce6596cc4b1679693432dc06ed41c6354083b8d
 >>>>>>> origin
+name = manas 

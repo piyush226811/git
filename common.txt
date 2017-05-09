@@ -2,3 +2,7 @@ merge check
 first change
 name_joshi
 hi i am akshith
+name_Joshi
+name = 'shraddheya'
+dinesh 
+merging

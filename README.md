@@ -4,3 +4,5 @@ Updated by Joshi
  
  test commit
 manoj.middepogu@gmail.com
+
+rajat.majoka@gmail.com
